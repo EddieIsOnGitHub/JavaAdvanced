@@ -14,7 +14,7 @@ import java.util.stream.Stream;
 public class P04NioReadAll {
   public static void main(String[] args) {
         
-    Path file =  Paths.get("C:/BootCamp/9_Java_Advanced/My_Java/book1/chapter14/practices/practice1/hamlet.txt");
+    Path file =  Paths.get("C:\\\\Code College\\\\bootcamp\\\\New folder\\\\Java Advanced\\\\book1\\\\chapter14\\\\practices\\\\practice1/hamlet.txt");
     List<String> fileArr;
 
     try{

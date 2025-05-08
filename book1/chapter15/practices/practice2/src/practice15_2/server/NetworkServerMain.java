@@ -1,7 +1,5 @@
 package practice15_2.server;
 
-import practice15_2.server.PriceRangeServer;
-
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;

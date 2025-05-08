@@ -14,7 +14,7 @@ public class P01BufferedReader {
         
         try{
             BufferedReader bReader = 
-                new BufferedReader(new FileReader("C:/BootCamp/9_Java_Advanced/My_Java/book1/chapter14/practices/practice1/hamlet.txt"));
+                new BufferedReader(new FileReader("C:\\Code College\\bootcamp\\New folder\\Java Advanced\\book1\\chapter14\\practices\\practice1/hamlet.txt"));
             
             System.out.println("=== Entire File ===");
             bReader.lines()

@@ -13,7 +13,7 @@ public class P02NioRead {
     
     public static void main(String[] args) {
         
-        try(Stream<String> lines = Files.lines(Paths.get("C:/BootCamp/9_Java_Advanced/My_Java/book1/chapter14/practices/practice1/hamlet.txt"))){
+        try(Stream<String> lines = Files.lines(Paths.get("C:\\\\Code College\\\\bootcamp\\\\New folder\\\\Java Advanced\\\\book1\\\\chapter14\\\\practices\\\\practice1/hamlet.txt"))){
             
             System.out.println("\n=== Entire File ===");
             lines.forEach(line -> System.out.println(line)); 
