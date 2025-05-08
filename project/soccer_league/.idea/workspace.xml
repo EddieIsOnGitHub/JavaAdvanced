@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b99f14f2-1f16-4a86-9b68-e25fc20dc553" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../book1/chapter13/examples/ByteChannelExample/ByteChannelExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../book1/chapter13/examples/CommandLineExample/CommandLineExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../book1/chapter13/examples/NodeStreamsExample/NodeStreamsExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../book1/chapter13/examples/ScannerExample/ScannerExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../book1/chapter14/examples/CopyAllLinesExample/CopyAllLinesExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../book1/chapter14/examples/CopyStreamExample/CopyStreamExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../book1/chapter14/examples/DiskUsageExample/DiskUsageExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../book1/chapter14/examples/EmployeeSearch08/EmployeeSearch08.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../book1/chapter14/examples/FindFileExample/FindFileExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../book1/chapter14/examples/PathExample/PathExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../book1/chapter14/examples/PathOperationsExample/PathOperationsExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../book1/chapter15/examples/ArrayListExample/ArrayListExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../book1/chapter15/examples/AtomicExample/AtomicExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../book1/chapter15/examples/ThreadPoolExample/ThreadPoolExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../book1/chapter19/examples/DateFormatExample/DateFormatExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../book1/chapter19/examples/PropertiesExample/PropertiesExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../book4/chapter2/src/listing2_2/WriteFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../book4/chapter2/src/listing2_2/WriteFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../book4/chapter2/src/listing2_2/movies2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../book4/chapter2/src/listing2_2/movies2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../book4/chapter2/src/listing2_4/WriteBinaryFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../book4/chapter2/src/listing2_4/WriteBinaryFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../book4/chapter3/sql_intro.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../book4/chapter3/sql_intro.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../book4/chapter5/src/listing5_1/movies.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../book4/chapter5/src/listing5_1/movies.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/soccer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/soccer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReadScore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Teams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/SoccerLeague.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/SoccerLeague.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Fezao187"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Fezao187/Java_Advanced.git",
+    "accountId": "41b74df0-bebf-44d7-a286-87bede1aeb04"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2plouvWNwBlhuxfMqZaYohC7XOq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/BootCamp/9_Java_Advanced",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b99f14f2-1f16-4a86-9b68-e25fc20dc553" name="Changes" comment="" />
+      <created>1733350248681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733350248681</updated>
+      <workItem from="1733350249779" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

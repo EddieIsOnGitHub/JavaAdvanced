@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bfaa8db8-0e60-4753-9335-062b8a1a943a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/chapter12/examples/DateTimeFormatterExample/DateTimeFormatterExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter12/examples/InstantDurationPeriodExample/InstantDurationPeriodExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter12/examples/LocalDateExample/LocalDateExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter12/examples/LocalDateTimeExample/LocalDateTimeExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter12/examples/OffsetDateTimeExample/OffsetDateTimeExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter13/examples/ByteChannelExample/ByteChannelExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter13/examples/CommandLineExample/CommandLineExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter13/examples/NodeStreamsExample/NodeStreamsExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter13/examples/ScannerExample/ScannerExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter14/examples/CopyAllLinesExample/CopyAllLinesExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter14/examples/CopyStreamExample/CopyStreamExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter14/examples/DiskUsageExample/DiskUsageExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter14/examples/EmployeeSearch08/EmployeeSearch08.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter14/examples/FindFileExample/FindFileExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter14/examples/PathExample/PathExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter14/examples/PathOperationsExample/PathOperationsExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter15/examples/ArrayListExample/ArrayListExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter15/examples/AtomicExample/AtomicExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter15/examples/ThreadPoolExample/ThreadPoolExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter19/examples/DateFormatExample/DateFormatExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter19/examples/PropertiesExample/PropertiesExample.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Fezao187"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Fezao187/Java_Advanced.git",
+    "accountId": "41b74df0-bebf-44d7-a286-87bede1aeb04"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2nvxWaxhET3V0ndV5rz5iwm5bD3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/BootCamp/9_Java_Advanced/My_Java/book1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfaa8db8-0e60-4753-9335-062b8a1a943a" name="Changes" comment="" />
+      <created>1729867382975</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729867382975</updated>
+      <workItem from="1729867384033" duration="954000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

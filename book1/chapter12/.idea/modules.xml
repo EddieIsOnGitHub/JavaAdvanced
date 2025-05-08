@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/examples/DateTimeFormatterExample/DateTimeFormatterExample.iml" filepath="$PROJECT_DIR$/examples/DateTimeFormatterExample/DateTimeFormatterExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/FluentExamples/FluentExamples.iml" filepath="$PROJECT_DIR$/examples/FluentExamples/FluentExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/InstantDurationPeriodExample/InstantDurationPeriodExample.iml" filepath="$PROJECT_DIR$/examples/InstantDurationPeriodExample/InstantDurationPeriodExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/LocalDateExample/LocalDateExample.iml" filepath="$PROJECT_DIR$/examples/LocalDateExample/LocalDateExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/LocalDateTimeExample/LocalDateTimeExample.iml" filepath="$PROJECT_DIR$/examples/LocalDateTimeExample/LocalDateTimeExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/LocalTimeExample/LocalTimeExample.iml" filepath="$PROJECT_DIR$/examples/LocalTimeExample/LocalTimeExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/OffsetDateTimeExample/OffsetDateTimeExample.iml" filepath="$PROJECT_DIR$/examples/OffsetDateTimeExample/OffsetDateTimeExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/ZoneIdOffset/ZoneIdOffset.iml" filepath="$PROJECT_DIR$/examples/ZoneIdOffset/ZoneIdOffset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/ZonedDateTimeExample/ZonedDateTimeExample.iml" filepath="$PROJECT_DIR$/examples/ZonedDateTimeExample/ZonedDateTimeExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/chapter12.iml" filepath="$PROJECT_DIR$/.idea/chapter12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practices/practice1/practice1.iml" filepath="$PROJECT_DIR$/practices/practice1/practice1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practices/practice2/practice2.iml" filepath="$PROJECT_DIR$/practices/practice2/practice2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practices/practice3/practice3.iml" filepath="$PROJECT_DIR$/practices/practice3/practice3.iml" />
+    </modules>
+  </component>
+</project>
