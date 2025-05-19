@@ -1,23 +1,24 @@
 package listing5_3;
 
+import java.text.NumberFormat;
+
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
+
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.xml.sax.InputSource;
 
-import javax.xml.parsers.DocumentBuilder;
-import javax.xml.parsers.DocumentBuilderFactory;
-import java.text.NumberFormat;
-
 public class ListMoviesXML {
     private static final NumberFormat cf = NumberFormat.getCurrencyInstance();
 
     public static void main(String[] args) {
-        Document doc = getDocument("C:\\BootCamp\\9_Java_Advanced\\My_Java\\book4\\chapter5\\src\\listing5_1\\movies.xml");
+        Document doc = getDocument("C:\\Code College\\bootcamp\\New folder\\Java Advanced\\book4\\chapter5\\src\\listing5_1\\movies.xml");
         Element root = doc.getDocumentElement();
         Element movieElement = (Element) root.getFirstChild();
         Movie m;
-        while (movieElement != null) {
+        while (movieElement != null ) {
             m = getMovie(movieElement);
             String msg = Integer.toString(m.year);
             msg += ": " + m.title;

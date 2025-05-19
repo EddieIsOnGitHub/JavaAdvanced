@@ -1,13 +1,17 @@
 package listing2_1;
 
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
 import java.text.NumberFormat;
 
 //Reading from a Text File
 public class ReadFile {
     public static void main(String[] args) {
         NumberFormat cf = NumberFormat.getCurrencyInstance();
-        BufferedReader in = getReader("C:\\BootCamp\\9_Java_Advanced\\My_Java\\book4\\chapter2\\src\\listing2_2\\movies2.txt");
+        BufferedReader in = getReader("C:\\Code College\\bootcamp\\New folder\\Java Advanced\\book4\\chapter2\\src\\listing2_2\\movies2.txt");
         Movie movie = readMovie(in);
         while (movie != null) {
             String msg = Integer.toString(movie.year);
